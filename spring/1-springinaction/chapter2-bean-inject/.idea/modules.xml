@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1-autoconfig/1-autoconfig.iml" filepath="$PROJECT_DIR$/1-autoconfig/1-autoconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-javaconfig/2-javaconfig.iml" filepath="$PROJECT_DIR$/2-javaconfig/2-javaconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-xmlconfig/3-xmlconfig.iml" filepath="$PROJECT_DIR$/3-xmlconfig/3-xmlconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springinaction_chapter2.iml" filepath="$PROJECT_DIR$/springinaction_chapter2.iml" />
+    </modules>
+  </component>
+</project>
