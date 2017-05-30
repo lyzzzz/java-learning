@@ -1,0 +1,77 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="springinaction_chapter5_2:war exploded">
+    <output-path>$PROJECT_DIR$/web</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="springinaction_chapter5_2" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-tx-4.1.0.RELEASE.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-aop-4.1.0.RELEASE.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-jms-4.1.0.RELEASE.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-orm-4.1.0.RELEASE.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-oxm-4.1.0.RELEASE.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-web-4.1.0.RELEASE.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-core-4.1.0.RELEASE.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-jdbc-4.1.0.RELEASE.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-test-4.1.0.RELEASE.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-beans-4.1.0.RELEASE.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-webmvc-4.1.0.RELEASE.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-aspects-4.1.0.RELEASE.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-context-4.1.0.RELEASE.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-messaging-4.1.0.RELEASE.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-websocket-4.1.0.RELEASE.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-expression-4.1.0.RELEASE.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-instrument-4.1.0.RELEASE.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-tx-4.1.0.RELEASE-javadoc.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-tx-4.1.0.RELEASE-sources.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-aop-4.1.0.RELEASE-javadoc.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-aop-4.1.0.RELEASE-sources.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-jms-4.1.0.RELEASE-javadoc.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-jms-4.1.0.RELEASE-sources.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-orm-4.1.0.RELEASE-javadoc.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-orm-4.1.0.RELEASE-sources.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-oxm-4.1.0.RELEASE-javadoc.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-oxm-4.1.0.RELEASE-sources.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-web-4.1.0.RELEASE-javadoc.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-web-4.1.0.RELEASE-sources.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-core-4.1.0.RELEASE-javadoc.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-core-4.1.0.RELEASE-sources.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-jdbc-4.1.0.RELEASE-javadoc.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-jdbc-4.1.0.RELEASE-sources.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-test-4.1.0.RELEASE-javadoc.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-test-4.1.0.RELEASE-sources.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-beans-4.1.0.RELEASE-javadoc.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-beans-4.1.0.RELEASE-sources.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-webmvc-4.1.0.RELEASE-javadoc.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-webmvc-4.1.0.RELEASE-sources.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-webmvc-portlet-4.1.0.RELEASE.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-aspects-4.1.0.RELEASE-javadoc.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-aspects-4.1.0.RELEASE-sources.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-context-4.1.0.RELEASE-javadoc.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-context-4.1.0.RELEASE-sources.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-context-support-4.1.0.RELEASE.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-instrument-tomcat-4.1.0.RELEASE.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-messaging-4.1.0.RELEASE-javadoc.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-messaging-4.1.0.RELEASE-sources.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-websocket-4.1.0.RELEASE-javadoc.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-websocket-4.1.0.RELEASE-sources.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-expression-4.1.0.RELEASE-javadoc.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-expression-4.1.0.RELEASE-sources.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-instrument-4.1.0.RELEASE-javadoc.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-instrument-4.1.0.RELEASE-sources.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-webmvc-portlet-4.1.0.RELEASE-javadoc.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-webmvc-portlet-4.1.0.RELEASE-sources.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-context-support-4.1.0.RELEASE-javadoc.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-context-support-4.1.0.RELEASE-sources.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-instrument-tomcat-4.1.0.RELEASE-javadoc.jar" />
+          <element id="file-copy" path="G:/开发库/spring-framework-4.1.0.RELEASE/libs/spring-instrument-tomcat-4.1.0.RELEASE-sources.jar" />
+          <element id="file-copy" path="G:/开发库/commons-logging-1.2/commons-logging-1.2.jar" />
+          <element id="file-copy" path="G:/开发库/jstl/taglibs-standard-jstlel-1.2.1.jar" />
+          <element id="library" level="project" name="jstl" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
